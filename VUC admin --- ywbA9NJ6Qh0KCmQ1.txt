@@ -1,3 +1,0 @@
-VUC admin --- ywbA9NJ6Qh0KCmQ1 
-
-mongodb+srv://vuc_admin:vucpass4529@cluster0.qmc4chy.mongodb.net/?appName=Cluster0
