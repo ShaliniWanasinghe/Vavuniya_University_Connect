@@ -13,3 +13,8 @@ A centralized web platform to unify academic and non-academic communication at t
 - Notice approval workflow
 - Academic, welfare, sports & student services notices
 - Secure MongoDB Atlas backend
+
+## WorkFlow
+moderator → creates notice → status: "pending"
+admin → approves → status: "published"
+user → sees only "published"
