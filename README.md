@@ -52,12 +52,16 @@ npm run dev
 
 ### Academic Notices
 ![Academic Notices](screenshots/Academic.jpeg)
+![Acedamic](https://github.com/user-attachments/assets/19a0801b-e8e4-4135-a7fc-34d180416865)
 
 ### Dashboard
 ![Dashboard](screenshots/Dashboard.jpeg)
+![Dashboard](https://github.com/user-attachments/assets/e56ea77a-adf6-4ba9-8f6e-f5ef6ee600f4)
 
 ### Student Societies
 ![Student Societies](screenshots/Socities.jpeg)
+![Socities](https://github.com/user-attachments/assets/edaeb449-5508-4949-87ee-68a7b3b6046f)
 
 ### Welfare Notices
 ![Welfare Notices](screenshots/Welfare.jpeg)
+![Welfare](https://github.com/user-attachments/assets/78c336e5-7bf9-4423-837c-7b713dede624)
