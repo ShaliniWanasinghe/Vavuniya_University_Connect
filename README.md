@@ -231,4 +231,20 @@ http://localhost:5000/api
 
 ---
 
+![WhatsApp Image 2026-01-28 at 12 31 27](https://github.com/user-attachments/assets/9eda7f87-e3f6-4455-ba0b-aa3339fa5a0a)
 
+
+
+
+![WhatsApp Image 2026-01-28 at 12 31 28](https://github.com/user-attachments/assets/592deda9-ae3d-474a-846e-7d220e362404)
+
+
+
+![WhatsApp Image 2026-01-28 at 12 31 33](https://github.com/user-attachments/assets/bebcf29a-e9e8-4ae0-8937-accb5cc20e4f)
+
+
+![WhatsApp Image 2026-01-28 at 12 31 34](https://github.com/user-attachments/assets/135c5c4c-486a-498f-a496-91f4175739a7)
+
+
+
+![WhatsApp Image 2026-01-28 at 12 31 35](https://github.com/user-attachments/assets/3998d5ef-4c22-4f6e-8d55-7aada3f95fd8)
